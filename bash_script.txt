@@ -1,0 +1,7 @@
+cd /Users/bad_boy/Tajrupt/project_mockup
+git init
+git add .
+git commit -m "Initial commit with existing project structure"
+git branch -M main
+git remote add origin https://github.com/Azamat-1/project_mockup.git
+git push -u origin main
